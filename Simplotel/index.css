@@ -1,0 +1,114 @@
+.page1{
+    margin-bottom: 5px;
+}
+
+.page1-container{
+    padding-left: 25px;
+    background-image: linear-gradient(to right, #eddbda,#f5bad6,#f5abcf );
+}
+
+.navbar{
+    background-color: lightcoral;
+    
+}
+
+.nav-text{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 10px;
+    
+}
+
+.menu-bar{
+    height: 35px;
+    width: 35px;
+}
+
+.page1-img{
+    width: 50%;
+}
+
+.heading{
+    font-family: Roboto;
+    color: #000000;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+.discription{
+    font-family: Roboto;
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn{
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+.lorem-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+
+.page2-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: linear-gradient(to right, #eddbda,#f5bad6,#f5abcf );
+}
+
+.page2-img1 {
+    height: 200px;
+    width: 250px;
+}
+
+.page2-img2 {
+    height: 415px;
+    width: 250px;
+}
+
+.pag2-card-2{
+    background-color: lightcoral;
+    height: 200px;
+    width: 400px;
+    padding: 8px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.page2-text{
+    font-family: Roboto;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.pag2-heding {
+    font-family: Roboto;
+    color: #000000;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.click-text {
+    font-family: Roboto;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
